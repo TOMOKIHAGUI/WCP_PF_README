@@ -29,11 +29,9 @@
 - IDE：Cloud9
 
 ## 使用素材
-- Font Free
-- ぱくたそ
-- O-DAN
-- morguefile
-- Font_awesome
-- ICOOON_MONO
-- designevo
+- Font Free <https://fontfree.me/>
+- O-DAN <https://o-dan.net/ja/>
+- Font_awesome <https://fontawesome.com/>
+- ICOOON_MONO <https://icooon-mono.com/>
+- designevo <https://www.designevo.com/>
 - 自主撮影画像
